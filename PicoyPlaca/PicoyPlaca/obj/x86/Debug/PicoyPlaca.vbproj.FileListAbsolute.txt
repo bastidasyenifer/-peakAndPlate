@@ -1,0 +1,16 @@
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\PicoyPlaca.CkequeoPicoyPlaca.resources
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\PicoyPlaca.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.exe
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.xml
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\PicoyPlaca.exe
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\PicoyPlaca.xml
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\PicoyPlaca.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\PicoyPlaca.CargandoSistema.resources
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.exe.manifest
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.application
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\PicoyPlaca.exe.manifest
+c:\users\administrador\documents\visual studio 2010\Projects\PicoyPlaca\PicoyPlaca\obj\x86\Debug\PicoyPlaca.application
